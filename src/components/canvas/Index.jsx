@@ -1,5 +1,6 @@
-import EarthCanvas from "./Earth";
-import BallCanvas from "./Ball";
+// import EarthCanvas from "./Earth";
+import EarthCanvas from "./EarthCanvas";
+import BallCanvas from "./BallCanvas";
 import ComputersCanvas from "./Computers";
 import StarsCanvas from "./Stars";
 

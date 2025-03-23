@@ -3,9 +3,9 @@ import { motion } from "framer-motion";
 import emailjs from "@emailjs/browser";
 
 import { styles } from "../styles";
-import { EarthCanvas } from "./canvas";
 import { SectionWrapper } from "../hoc";
-import { slideIn } from "../utils/motion";
+import { slideIn } from "../utils/slideIn";
+import EarthCanvas from "./canvas/EarthCanvas";
 
 const Contact = () => {
   const formRef = useRef();

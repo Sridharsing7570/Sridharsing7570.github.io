@@ -10,12 +10,16 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@emailjs/browser": "^4.4.1",
     "@react-three/drei": "^10.0.4",
     "@react-three/fiber": "^9.1.0",
     "framer-motion": "^12.5.0",
+    "prop-types": "^15.8.1",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-router-dom": "^7.4.0",
+    "react-tilt": "^1.0.2",
+    "react-vertical-timeline-component": "^3.5.3",
     "three": "^0.174.0"
   },
   "devDependencies": {

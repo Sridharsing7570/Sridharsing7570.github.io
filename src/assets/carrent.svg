@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="250" height="100" viewBox="0 0 250 100">
+    <!-- Background Rectangle -->
+    <rect width="100%" height="100%" rx="15" fill="#0A192F"/>
+
+    <!-- Icon Design (Network Hub Concept) -->
+    <circle cx="40" cy="50" r="18" fill="#64FFDA"/>
+    <line x1="40" y1="50" x2="70" y2="25" stroke="#64FFDA" stroke-width="2"/>
+    <line x1="40" y1="50" x2="70" y2="75" stroke="#64FFDA" stroke-width="2"/>
+
+    <circle cx="70" cy="25" r="5" fill="#FFFFFF"/>
+    <circle cx="70" cy="75" r="5" fill="#FFFFFF"/>
+
+    <!-- Text 'TaskHub Zone' -->
+    <text x="100" y="55" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="28" font-weight="bold">TaskHub Zone</text>
+</svg>

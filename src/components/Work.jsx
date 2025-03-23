@@ -5,8 +5,10 @@ import { motion } from "framer-motion";
 import { styles } from "../styles";
 import { github } from "../assets";
 import { SectionWrapper } from "../hoc";
-import { projects } from "../constants/Index";
-import { fadeIn, textVariant } from "../utils/motion";
+import { fadeIn } from "../utils/fadeIn";
+import { textVariant } from "../utils/textVariant";
+import { projects } from "../constants";
+
 
 const ProjectCard = ({
   index,

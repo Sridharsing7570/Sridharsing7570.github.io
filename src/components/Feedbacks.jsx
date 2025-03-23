@@ -1,10 +1,11 @@
 import React from "react";
 import { motion } from "framer-motion";
 
-import { styles } from "../styles";
 import { SectionWrapper } from "../hoc";
-import { fadeIn, textVariant } from "../utils/motion";
-import { testimonials } from "../constants/Index";
+import { testimonials } from "../constants";
+import { fadeIn } from "../utils/fadeIn";
+import { textVariant } from "../utils/textVariant";
+import { styles } from "../styles";
 
 const FeedbackCard = ({
   index,
