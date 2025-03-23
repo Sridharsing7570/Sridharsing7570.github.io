@@ -101,6 +101,5 @@ export default SectionWrapper(MyComponent, "my-component");
 
 ![Contact Page Screenshot](https://example.com/contact-page-screenshot.png)
 
-Replace the image URLs with the actual paths to your project screenshots.
 
 This README file provides a basic overview of the project, installation instructions, project structure, key features, usage examples, and screenshots. You can customize it further to fit your project's needs.
