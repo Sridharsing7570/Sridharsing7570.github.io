@@ -1,4 +1,3 @@
-Sure, here's a suggested README file for your project, including a brief description, installation instructions, usage examples, and screenshots.
 
 **README File**
 
